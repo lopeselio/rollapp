@@ -21,7 +21,7 @@ It uses Cosmos-SDK's [simapp](https://github.com/cosmos/cosmos-sdk/tree/main/sim
 
 ## Quick guide
 
-Get started with [building RollApps](https://docs.dymension.xyz/develop/get-started/setup)
+Get started with [building RollApps](https://docs.dymension.xyz/build/overview/)
 
 ## Installing / Getting started
 
